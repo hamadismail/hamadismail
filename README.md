@@ -31,12 +31,22 @@ I'm a passionate programmer with a BSc in Computer Science and Engineering from 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hamadismail)
 
 ## 🗂️ Projects
-### [Android Chat Application: Project Name](https://github.com/hamadismail/GreenChat)
+### [Project 1: Android Chat Application](https://github.com/hamadismail/GreenChat)
 Implemented WhatsApp‑inspired Android applications using Java with a Firebase backend using the Android Studio platform. The key features, such as real‑time messaging, user authentication, and secure message encryption, were implemented effectively.
 
-### [E-Commerce Website: Project Name](https://github.com/hamadismail/CoffeShop)
+### [Project 2: E-Commerce Website](https://github.com/hamadismail/CoffeShop)
 Designed and implemented responsive web applications like e‑commerce platforms using HTML, CSS, JavaScript, PHP, and MSSQL. As it is a multi‑vendor website in the user panel, users can make orders and add products to carts, and some other staff on the admin
 panel can manage products and users.
+
+## 📚 Publications
+### 6th International Conference on Communication and Computational Technologies (ICCCT 2024)
+**Rajasthan Institute of Engineering and Technology, Jaipur, India**
+
+**A 3D CNN MODEL WITH MULTI-FEATURE FUSION FOR ENHANCING HUMAN EMOTION RECOGNITION FROM SPEECH** (Jan. 2024)
+
+- Developed a 3D Convolutional Neural Network (CNN) Classifier to effectively identify emotions from microphone-captured speech data.
+- Our proposed model incorporating an adopted 3D CNN and multi-feature fusion demonstrates superior accuracy than state-of-the-art models for human emotion recognition from speech. The proposed model uses MFCC, CS, and MeS features that form a 3D tensor for nuanced emotional cue analysis.
+- Our 3D CNN model introduces a novel approach by incorporating three distinct feature extraction techniques—namely, MFCC, chroma shift, and mel-spectrogram—which are then stacked along the Z-axis, forming the third dimension of our model.
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
