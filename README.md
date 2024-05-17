@@ -14,10 +14,10 @@ I'm a passionate programmer with a BSc in Computer Science and Engineering from 
 -->
 
 ## 🛠️ Skills
-- Programming Languages: **[C++ || Java || Python || JavaScript]**
-- Frameworks: **[React]**
-- Tools: **[Machine Learning || LaTex]**
-- Other: **[Linux]**
+- Programming Languages: **C++ || Java || Python || JavaScript**
+- Frameworks: **React**
+- Tools: **Machine Learning || LaTex**
+- Other: **Linux**
 
 ## 📈 GitHub Stats
 ![Md. Hamad Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamadismail&show_icons=true&theme=radical)
