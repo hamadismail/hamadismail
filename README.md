@@ -31,17 +31,16 @@ I'm a passionate programmer with a BSc in Computer Science and Engineering from 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hamadismail)
 
 ## 🗂️ Projects
-### [Project 1: Project Name](https://github.com/hamadismail/project1)
-Description of Project 1.
+### [Project 1: Project Name](https://github.com/hamadismail/GreenChat)
+• Implemented WhatsApp‑inspired Android applications using Java with a Firebase backend using the Android Studio platform. The key features, such as real‑time messaging, user authentication, and secure message encryption, were implemented effectively.
 
-### [Project 2: Project Name](https://github.com/hamadismail/project2)
-Description of Project 2.
-
-### [Project 3: Project Name](https://github.com/hamadismail/project3)
-Description of Project 3.
+### [Project 2: Project Name](https://github.com/hamadismail/CoffeShop)
+Designed and implemented responsive web applications like e‑commerce platforms using HTML, CSS, JavaScript, PHP, and MSSQL. As it is a multi‑vendor website in the user panel, users can make orders and add products to carts, and some other staff on the admin
+panel can manage products and users.
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
+Problem Solving
 <!--END_SECTION:waka-->
 
 ## 📫 Contact Me
