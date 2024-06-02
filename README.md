@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Hamad Ismail 👋
+# Hi there, I'm Hamad Ismail 👋
 
 ## 🚀 About Me
 I'm a passionate programmer with a BSc in Computer Science and Engineering from the Department of CSE at Green University of Bangladesh. I love coding, solving complex problems, and contributing to open-source projects.
