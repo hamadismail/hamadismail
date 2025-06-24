@@ -1,4 +1,15 @@
-# Hi there, I'm Hamad Ismail 👋
+<!-- Banner -->
+<img src="https://your-banner-image-link.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;" />
+
+<h1 align="center">Hi there, I'm Hamad Ismail 👋</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
+
+<!-- Profile Info -->
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp;&nbsp;|&nbsp;&nbsp; 📧 hamad.ismail@example.com
+</p>
+
+---
 
 ## 🚀 About Me
 I'm a passionate programmer with a BSc in Computer Science and Engineering from the Department of CSE at Green University of Bangladesh. I love coding, solving complex problems, and contributing to open-source projects.
