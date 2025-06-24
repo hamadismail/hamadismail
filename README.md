@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://github.com/hamadismail/hamadismail/blob/main/image.jpg" alt="Banner" 
   height= "200"
-  style="object-fit: contain; border-radius: 10px;" />
+  style="width:100%; object-fit: contain; border-radius: 10px;" />
 
 
 
