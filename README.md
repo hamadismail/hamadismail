@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img src="https://github.com/hamadismail/hamadismail/blob/main/banner.png" alt="Banner" style="width:100%; border-radius: 10px;" />
+<img src="https://github.com/hamadismail/hamadismail/blob/main/banner.png" alt="Banner" 
+  style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
+
 
 <h1 align="center">Hi there, I'm Hamad Ismail 👋</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
