@@ -1,7 +1,9 @@
 <!-- Banner -->
-<img src="https://github.com/hamadismail/hamadismail/blob/main/image.jpg" alt="Banner" 
-  height= "200"
-  style="width:100%; object-fit: cover; border-radius: 10px;" />
+<div style="width: 100%; margin: 0 auto;">
+  <img src="https://github.com/hamadismail/hamadismail/blob/main/image.jpg" 
+       alt="Banner" 
+       style="max-width: 100%; max-height: 200px; object-fit: cover; border-radius: 10px;" />
+</div>
 
 
 
