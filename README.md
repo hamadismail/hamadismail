@@ -51,8 +51,6 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 
 ---
 
----
-
 ## 📌 Pinned Projects
 
 ### 📘 [Library Management System](https://github.com/hamadismail/library-management-client)
@@ -73,14 +71,21 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 ---
 
 ## 📚 Publications
-### 6th International Conference on Communication and Computational Technologies (ICCCT 2024)
-**Rajasthan Institute of Engineering and Technology, Jaipur, India**
 
-**A 3D CNN MODEL WITH MULTI-FEATURE FUSION FOR ENHANCING HUMAN EMOTION RECOGNITION FROM SPEECH** (Jan. 2024)
+### 📝 *6th International Conference on Communication and Computational Technologies (ICCCT 2024)*  
+📍 *Rajasthan Institute of Engineering and Technology, Jaipur, India*
 
-- Developed a 3D Convolutional Neural Network (CNN) Classifier to effectively identify emotions from microphone-captured speech data.
-- Our proposed model incorporating an adopted 3D CNN and multi-feature fusion demonstrates superior accuracy than state-of-the-art models for human emotion recognition from speech. The proposed model uses MFCC, CS, and MeS features that form a 3D tensor for nuanced emotional cue analysis.
-- Our 3D CNN model introduces a novel approach by incorporating three distinct feature extraction techniques—namely, MFCC, chroma shift, and mel-spectrogram—which are then stacked along the Z-axis, forming the third dimension of our model.
+#### **🎙️ A 3D CNN Model with Multi-Feature Fusion for Enhancing Human Emotion Recognition from Speech**  
+🗓️ *Published: January 2024*  
+🔗 **[View Paper on Springer](https://link.springer.com/chapter/10.1007/978-981-97-7426-5_22)**  
+📄 **DOI:** [10.1007/978-981-97-7426-5_22](https://doi.org/10.1007/978-981-97-7426-5_22)
+
+**Highlights:**
+- ✅ Designed a 3D Convolutional Neural Network (CNN) to classify human emotions from raw speech inputs.
+- ✅ Proposed a **multi-feature fusion** technique using **MFCC**, **Chroma Shift (CS)**, and **Mel-Spectrogram (MeS)** to form a 3D tensor for capturing emotional cues.
+- ✅ Achieved improved accuracy over existing models by combining spatial and spectral features in a 3D architecture.
+- ✅ Novel feature-stacking method along the Z-axis enhances temporal emotion representation in speech.
+
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
