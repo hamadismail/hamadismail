@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://github.com/hamadismail/hamadismail/blob/main/banner.png" 
      alt="Banner" 
-     style="width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 10px;" />
+     style="width: 100%; height:200px; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 10px;" />
 
 
 <h1 align="center">Hi there, I'm Hamad Ismail 👋</h1>
