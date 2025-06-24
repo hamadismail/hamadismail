@@ -11,43 +11,66 @@
 
 ---
 
-## 🚀 About Me
-I'm a passionate programmer with a BSc in Computer Science and Engineering from the Department of CSE at Green University of Bangladesh. I love coding, solving complex problems, and contributing to open-source projects.
+## 🙋‍♂️ About Me
 
-<!--
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technology or Framework]**
-- 👯 I’m looking to collaborate on **[Your Interest Area]**
-- 🤔 I’m looking for help with **[Area you need help with]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
--->
+I'm a passionate developer who loves building scalable and user-friendly web applications. I enjoy learning new technologies and applying them to solve real-world problems.
 
-## 🛠️ Skills
-- Programming Languages: **C++ || Java || Python || JavaScript**
-- Frameworks: **React**
-- Tools: **Machine Learning || LaTex**
-- Other: **Linux**
+- 💻 Completed my **B.Sc. in Computer Science and Engineering**
+- 🚀 Currently exploring **Next.js** and **TypeScript**
+- 🌱 Learning **Backend Development** using **Node.js + MongoDB**
+- 🛠️ Building a **Library Management System** full-stack application
+- 🔍 Occasionally participating in **Codeforces** and **LeetCode** contests
 
-## 📈 GitHub Stats
-![Md. Hamad Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamadismail&show_icons=true&theme=radical)
+---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=hamadismail&theme=onedark)
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux" />
+</p>
+
+---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamadismail)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamadismail)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hamadismail)
 
-## 🗂️ Projects
-### [Project 1: Android Chat Application](https://github.com/hamadismail/GreenChat)
-Implemented WhatsApp‑inspired Android applications using Java with a Firebase backend using the Android Studio platform. The key features, such as real‑time messaging, user authentication, and secure message encryption, were implemented effectively.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamadismail"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:hamad.ismail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/code/hamadismail"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
 
-### [Project 2: E-Commerce Website](https://github.com/hamadismail/CoffeShop)
-Designed and implemented responsive web applications like e‑commerce platforms using HTML, CSS, JavaScript, PHP, and MSSQL. As it is a multi‑vendor website in the user panel, users can make orders and add products to carts, and some other staff on the admin
-panel can manage products and users.
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamadismail&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadismail&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadismail&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+---
+
+## 📌 Pinned Projects
+
+### 📘 [Library Management System](https://github.com/hamadismail/library-management-client)
+> A full-stack web app for managing books in a library with user roles, authentication, borrowing logic, and responsive UI.  
+**🖥 [Live Site](https://readora1.web.app/)**  
+**🔧 Tech Stack:** React, Express, MongoDB, Firebase, Tailwind CSS
+
+### 📗 [HobbyHub – Community-driven platform](https://github.com/hamadismail/hobby-hubs-client)
+> A community-driven platform where users can create and join local hobby groups. Whether it’s painting, hiking, or gaming, users can find like-minded individuals to share their passions with. 
+**🖥 [Live Site](https://hobbyhubss.web.app/)**  
+**🔧 Tech Stack:** React, Express, MongoDB, Firebase, Tailwind CSS
+
+### 📙 [i3 Tweaks – Linux Window Manager Setup](https://github.com/hamadismail/i3-tweaks)
+> A setup and configuration repo for customizing the i3 window manager with required packages, Flatpak apps, and aesthetic tweaks.  
+**📂 Documentation included**  
+**🔧 Tech Stack:** Bash, i3, i3-gaps, Linux, Flatpak, Polybar
+
+---
 
 ## 📚 Publications
 ### 6th International Conference on Communication and Computational Technologies (ICCCT 2024)
