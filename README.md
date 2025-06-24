@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://your-banner-image-link.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;" />
+<img src="https://github.com/hamadismail/hamadismail/blob/main/banner.png" alt="Banner" style="width:100%; border-radius: 10px;" />
 
 <h1 align="center">Hi there, I'm Hamad Ismail 👋</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
@@ -91,7 +91,3 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 <!--START_SECTION:waka-->
 Problem Solving
 <!--END_SECTION:waka-->
-
-## 📫 Contact Me
-- Email: [hamad.ismail.gub@gmail.com](mailto:hamad.ismail.gub@gmail.com)
-- Phone: [01816401515](tel:+8801816401515)
