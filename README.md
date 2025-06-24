@@ -1,8 +1,9 @@
 <!-- Banner -->
-<img src="https://github.com/hamadismail/hamadismail/blob/main/image.jpg" 
-     alt="Banner" 
-     height="200"
-     style="width: 100%; object-fit: cover; border-radius: 10px;" />
+<div style="width: 1200px; margin: 0 auto;">
+  <img src="https://github.com/hamadismail/hamadismail/blob/main/image.jpg" 
+       alt="Banner" 
+       style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 10px;" />
+</div>
 
 
 <h1 align="center">Hi there, I'm Hamad Ismail 👋</h1>
