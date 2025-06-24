@@ -26,7 +26,7 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamadismail"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hamadismail"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hamad.ismail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.kaggle.com/code/hamadismail"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
