@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/hamadismail/hamadismail/blob/main/banner.png" alt="Banner" 
+<img src="https://raw.githubusercontent.com/hamadismail/hamadismail/refs/heads/main/banner.png" alt="Banner" 
   style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
 
 
