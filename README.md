@@ -52,7 +52,7 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 
 ---
 
-## 📌 Pinned Projects
+## 👨‍💻 Projects
 
 ### 📘 [Library Management System](https://github.com/hamadismail/library-management-client)
 > A full-stack web app for managing books in a library with user roles, authentication, borrowing logic, and responsive UI.  
