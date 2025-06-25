@@ -47,8 +47,8 @@ I'm a passionate developer who loves building scalable and user-friendly web app
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamadismail&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadismail&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadismail&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamadismail&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamadismail&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
